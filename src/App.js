@@ -1,6 +1,6 @@
 import React from 'react';
 
-import NonConformitiesList from './page/NonConformitiesList';
+import NonConformitiesList from './pages/NonConformitiesList';
 
 function App() {
   return (

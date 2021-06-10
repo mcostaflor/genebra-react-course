@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 const NonConformitiesList = () => {
-    //const [ncrList, setNcrList] = useState(50);
+    const [ncrList, setNcrList] = useState([]);
 
     useEffect(() => {
         //fetchApi
